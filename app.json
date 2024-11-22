@@ -5,9 +5,10 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "scheme": "your-app-scheme",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "https://i.pinimg.com/236x/5c/ae/67/5cae674485e863bfcca69a68f152cc67.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
